@@ -1,3 +1,7 @@
+__author__ = "Ajay Pandit, Codeaj"
+__email__ = "ajayoneness123@gmail.com"
+__status__ = "planning"
+
 import requests
 from bs4 import BeautifulSoup
 from google_trans_new import google_translator
